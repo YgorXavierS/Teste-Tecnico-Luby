@@ -1,0 +1,13 @@
+F:\C#\Teste Tecnico\DataString\DataString\bin\Debug\netcoreapp3.1\DataString.exe
+F:\C#\Teste Tecnico\DataString\DataString\bin\Debug\netcoreapp3.1\DataString.deps.json
+F:\C#\Teste Tecnico\DataString\DataString\bin\Debug\netcoreapp3.1\DataString.runtimeconfig.json
+F:\C#\Teste Tecnico\DataString\DataString\bin\Debug\netcoreapp3.1\DataString.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\DataString\DataString\bin\Debug\netcoreapp3.1\DataString.dll
+F:\C#\Teste Tecnico\DataString\DataString\bin\Debug\netcoreapp3.1\DataString.pdb
+F:\C#\Teste Tecnico\DataString\DataString\obj\Debug\netcoreapp3.1\DataString.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\DataString\DataString\obj\Debug\netcoreapp3.1\DataString.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\DataString\DataString\obj\Debug\netcoreapp3.1\DataString.AssemblyInfo.cs
+F:\C#\Teste Tecnico\DataString\DataString\obj\Debug\netcoreapp3.1\DataString.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\DataString\DataString\obj\Debug\netcoreapp3.1\DataString.dll
+F:\C#\Teste Tecnico\DataString\DataString\obj\Debug\netcoreapp3.1\DataString.pdb
+F:\C#\Teste Tecnico\DataString\DataString\obj\Debug\netcoreapp3.1\DataString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\bin\Debug\netcoreapp3.1\VetPar.exe
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\bin\Debug\netcoreapp3.1\VetPar.deps.json
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\bin\Debug\netcoreapp3.1\VetPar.runtimeconfig.json
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\bin\Debug\netcoreapp3.1\VetPar.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\bin\Debug\netcoreapp3.1\VetPar.dll
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\bin\Debug\netcoreapp3.1\VetPar.pdb
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\obj\Debug\netcoreapp3.1\VetPar.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\obj\Debug\netcoreapp3.1\VetPar.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\obj\Debug\netcoreapp3.1\VetPar.AssemblyInfo.cs
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\obj\Debug\netcoreapp3.1\VetPar.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\obj\Debug\netcoreapp3.1\VetPar.dll
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\obj\Debug\netcoreapp3.1\VetPar.pdb
+F:\C#\Teste Tecnico\VetPar\VetPar\VetPar\obj\Debug\netcoreapp3.1\VetPar.genruntimeconfig.cache

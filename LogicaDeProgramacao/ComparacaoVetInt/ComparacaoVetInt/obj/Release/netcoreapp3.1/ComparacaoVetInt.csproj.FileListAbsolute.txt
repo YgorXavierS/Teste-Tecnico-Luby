@@ -1,0 +1,3 @@
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Release\netcoreapp3.1\ComparacaoVetInt.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Release\netcoreapp3.1\ComparacaoVetInt.AssemblyInfo.cs
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Release\netcoreapp3.1\ComparacaoVetInt.csproj.CoreCompileInputs.cache

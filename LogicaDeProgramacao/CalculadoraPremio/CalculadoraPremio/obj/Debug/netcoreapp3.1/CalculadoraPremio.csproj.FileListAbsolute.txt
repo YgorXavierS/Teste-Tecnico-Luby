@@ -1,0 +1,26 @@
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.exe
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.deps.json
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.runtimeconfig.json
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.runtimeconfig.dev.json
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.dll
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.pdb
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.csprojAssemblyReference.cache
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.AssemblyInfoInputs.cache
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.AssemblyInfo.cs
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.csproj.CoreCompileInputs.cache
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.dll
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.pdb
+C:\Users\ygor\source\repos\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.genruntimeconfig.cache
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.exe
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.deps.json
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.runtimeconfig.json
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.dll
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Debug\netcoreapp3.1\CalculadoraPremio.pdb
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.AssemblyInfo.cs
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.dll
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.pdb
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Debug\netcoreapp3.1\CalculadoraPremio.genruntimeconfig.cache

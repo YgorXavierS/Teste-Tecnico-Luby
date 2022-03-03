@@ -1,0 +1,12 @@
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Release\netcoreapp3.1\CalculadoraPremio.exe
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Release\netcoreapp3.1\CalculadoraPremio.deps.json
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Release\netcoreapp3.1\CalculadoraPremio.runtimeconfig.json
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Release\netcoreapp3.1\CalculadoraPremio.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Release\netcoreapp3.1\CalculadoraPremio.dll
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\bin\Release\netcoreapp3.1\CalculadoraPremio.pdb
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Release\netcoreapp3.1\CalculadoraPremio.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Release\netcoreapp3.1\CalculadoraPremio.AssemblyInfo.cs
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Release\netcoreapp3.1\CalculadoraPremio.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Release\netcoreapp3.1\CalculadoraPremio.dll
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Release\netcoreapp3.1\CalculadoraPremio.pdb
+F:\C#\Teste Tecnico\CalculadoraPremio\CalculadoraPremio\obj\Release\netcoreapp3.1\CalculadoraPremio.genruntimeconfig.cache

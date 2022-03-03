@@ -1,0 +1,13 @@
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\obj\Debug\netcoreapp3.1\ArrayVirgula.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\obj\Debug\netcoreapp3.1\ArrayVirgula.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\obj\Debug\netcoreapp3.1\ArrayVirgula.AssemblyInfo.cs
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\obj\Debug\netcoreapp3.1\ArrayVirgula.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\bin\Debug\netcoreapp3.1\ArrayVirgula.exe
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\bin\Debug\netcoreapp3.1\ArrayVirgula.deps.json
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\bin\Debug\netcoreapp3.1\ArrayVirgula.runtimeconfig.json
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\bin\Debug\netcoreapp3.1\ArrayVirgula.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\bin\Debug\netcoreapp3.1\ArrayVirgula.dll
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\bin\Debug\netcoreapp3.1\ArrayVirgula.pdb
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\obj\Debug\netcoreapp3.1\ArrayVirgula.dll
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\obj\Debug\netcoreapp3.1\ArrayVirgula.pdb
+F:\C#\Teste Tecnico\ArrayVirgula\ArrayVirgula\obj\Debug\netcoreapp3.1\ArrayVirgula.genruntimeconfig.cache

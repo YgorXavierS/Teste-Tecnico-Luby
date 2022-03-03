@@ -1,0 +1,13 @@
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\bin\Debug\netcoreapp3.1\ComparacaoVetInt.exe
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\bin\Debug\netcoreapp3.1\ComparacaoVetInt.deps.json
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\bin\Debug\netcoreapp3.1\ComparacaoVetInt.runtimeconfig.json
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\bin\Debug\netcoreapp3.1\ComparacaoVetInt.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\bin\Debug\netcoreapp3.1\ComparacaoVetInt.dll
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\bin\Debug\netcoreapp3.1\ComparacaoVetInt.pdb
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Debug\netcoreapp3.1\ComparacaoVetInt.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Debug\netcoreapp3.1\ComparacaoVetInt.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Debug\netcoreapp3.1\ComparacaoVetInt.AssemblyInfo.cs
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Debug\netcoreapp3.1\ComparacaoVetInt.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Debug\netcoreapp3.1\ComparacaoVetInt.dll
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Debug\netcoreapp3.1\ComparacaoVetInt.pdb
+F:\C#\Teste Tecnico\ComparacaoVetInt\ComparacaoVetInt\obj\Debug\netcoreapp3.1\ComparacaoVetInt.genruntimeconfig.cache

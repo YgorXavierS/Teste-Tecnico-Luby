@@ -1,0 +1,13 @@
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\obj\Release\netcoreapp3.1\Porcentagem.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\obj\Release\netcoreapp3.1\Porcentagem.AssemblyInfo.cs
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\obj\Release\netcoreapp3.1\Porcentagem.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\obj\Release\netcoreapp3.1\Porcentagem.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\bin\Release\netcoreapp3.1\Porcentagem.exe
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\bin\Release\netcoreapp3.1\Porcentagem.deps.json
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\bin\Release\netcoreapp3.1\Porcentagem.runtimeconfig.json
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\bin\Release\netcoreapp3.1\Porcentagem.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\bin\Release\netcoreapp3.1\Porcentagem.dll
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\bin\Release\netcoreapp3.1\Porcentagem.pdb
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\obj\Release\netcoreapp3.1\Porcentagem.dll
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\obj\Release\netcoreapp3.1\Porcentagem.pdb
+F:\C#\Teste Tecnico\Porcentagem\Porcentagem\obj\Release\netcoreapp3.1\Porcentagem.genruntimeconfig.cache

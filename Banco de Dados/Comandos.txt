@@ -1,0 +1,112 @@
+create table tabela_pessoa(
+id int primary key,
+nome varchar(30))
+go
+
+create table tabela_evento(
+id int primary key,
+evento varchar(30),
+pessoa_id int,
+constraint PK_pessoa foreign key(pessoa_id) references tabela_pessoa(id)
+)
+go
+------------------------------------------------------------
+insert into tabela_pessoa values(1,'John Doe');
+insert into tabela_pessoa values(2,'Jane Doe');
+insert into tabela_pessoa values(3,'Alice Jones');
+insert into tabela_pessoa values(4,'Bobby Louis');
+insert into tabela_pessoa values(5,'Lisa Romero');
+insert into tabela_pessoa values(6,'NULL');
+
+insert into tabela_evento values(1,'Evento A',2);
+insert into tabela_evento values(2,'Evento B',3);
+insert into tabela_evento values(3,'Evento C',2);
+insert into tabela_evento values(4,'Evento D',6);
+--------------------------------------------------------------------
+
+
+----------------------------------------------------------
+2.1 Crie uma query para selecionar todas as pessoas 'tabela_pessoa' e os respectivos eventos 'tabela_evento' o qual elas participam.
+________________________________________________________________________
+
+
+select nome,evento
+from tabela_pessoa
+inner join tabela_evento
+on tabela_pessoa.id = tabela_evento.pessoa_id;
+
+---------------resultado query-------------------------
+Jane Doe	Evento A
+Alice Jones	Evento B
+Jane Doe	Evento C
+NULL		Evento D
+________________________________________________________________________
+
+________________________________________________________________________
+2.2 Crie uma query para selecionar todas as pessoas 'tabela_pessoa' com sobrenome 'Doe'.
+
+--------------resultado query-------------------------
+select nome from tabela_pessoa
+where nome LIKE '%Doe%'
+
+________________________________________________________________________
+
+2.3 Crie uma query para adicionar um novo evento 'tabela_evento' e relacionar à pessoa 'Lisa Romero'.
+---------------resultado query-------------------------
+insert into tabela_evento values(5,'Evento E',5)
+
+________________________________________________________________________
+2.4 Crie uma query para atualizar 'Evento D' na 'tabela_evento' e relacionar à pessoa 'Joh Doe'
+---------------resultado query-------------------------
+update tabela_evento
+set pessoa_id = 1
+where tabela_evento.evento = 'Evento D' ;
+
+________________________________________________________________________
+2.5 Crie uma query para remover o 'Evento B' na 'tabela_evento'.
+
+---------------resultado query-------------------------
+delete from tabela_evento
+where tabela_evento.evento = 'Evento B'
+go
+
+________________________________________________________________________
+
+2.6 Crie uma query para remover todas as pessoas 'tabela_pessoa' que não possuem eventos 'tabela_evento' relacionados.
+---------------resultado query-------------------------
+delete from tabela_pessoa
+where(select tabela_pessoa.id
+from tabela_pessoa
+inner join tabela_evento
+on tabela_pessoa.id = tabela_evento.pessoa_id)=6;
+
+
+________________________________________________________________________
+
+Gerênciamento de tabelas
+________________________________________________________________________
+
+2.7 Crie uma query para alterar a tabela 'tabela_pessoa' e adicionar a coluna 'idade' (int)
+
+---------------resultado query-------------------------
+alter table tabela_pessoa
+add idade int;
+
+________________________________________________________________________
+
+2.9 Crie uma query para criar uma índice do tipo único na coluna telefone da 'tabela_telefone'.
+---------------resultado query-------------------------
+alter table tabela_telefone
+add unique(telefone);
+
+________________________________________________________________________
+
+2.10 Crie uma query para remover a 'tabela_telefone'.
+---------------resultado query-------------------------
+
+drop table tabela_telefone
+
+
+
+
+

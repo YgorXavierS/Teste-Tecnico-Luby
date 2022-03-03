@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaElementoString", "BuscaElementoString\BuscaElementoString.csproj", "{D1BC1596-12B4-40E6-9A09-E547923DA4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BC1596-12B4-40E6-9A09-E547923DA4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BC1596-12B4-40E6-9A09-E547923DA4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BC1596-12B4-40E6-9A09-E547923DA4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BC1596-12B4-40E6-9A09-E547923DA4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48197415-6315-4CC6-9C28-D5E27BB53445}
+	EndGlobalSection
+EndGlobal

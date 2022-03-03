@@ -1,0 +1,13 @@
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\bin\Debug\netcoreapp3.1\CalculadoraPrimo.exe
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\bin\Debug\netcoreapp3.1\CalculadoraPrimo.deps.json
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\bin\Debug\netcoreapp3.1\CalculadoraPrimo.runtimeconfig.json
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\bin\Debug\netcoreapp3.1\CalculadoraPrimo.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\bin\Debug\netcoreapp3.1\CalculadoraPrimo.dll
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\bin\Debug\netcoreapp3.1\CalculadoraPrimo.pdb
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\obj\Debug\netcoreapp3.1\CalculadoraPrimo.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\obj\Debug\netcoreapp3.1\CalculadoraPrimo.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\obj\Debug\netcoreapp3.1\CalculadoraPrimo.AssemblyInfo.cs
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\obj\Debug\netcoreapp3.1\CalculadoraPrimo.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\obj\Debug\netcoreapp3.1\CalculadoraPrimo.dll
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\obj\Debug\netcoreapp3.1\CalculadoraPrimo.pdb
+F:\C#\Teste Tecnico\CalculadoraPrimo\CalculadoraPrimo\obj\Debug\netcoreapp3.1\CalculadoraPrimo.genruntimeconfig.cache

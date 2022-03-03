@@ -1,0 +1,13 @@
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\bin\Debug\netcoreapp3.1\CalculadoraFatorial.exe
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\bin\Debug\netcoreapp3.1\CalculadoraFatorial.deps.json
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\bin\Debug\netcoreapp3.1\CalculadoraFatorial.runtimeconfig.json
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\bin\Debug\netcoreapp3.1\CalculadoraFatorial.runtimeconfig.dev.json
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\bin\Debug\netcoreapp3.1\CalculadoraFatorial.dll
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\bin\Debug\netcoreapp3.1\CalculadoraFatorial.pdb
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\obj\Debug\netcoreapp3.1\CalculadoraFatorial.csprojAssemblyReference.cache
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\obj\Debug\netcoreapp3.1\CalculadoraFatorial.AssemblyInfoInputs.cache
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\obj\Debug\netcoreapp3.1\CalculadoraFatorial.AssemblyInfo.cs
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\obj\Debug\netcoreapp3.1\CalculadoraFatorial.csproj.CoreCompileInputs.cache
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\obj\Debug\netcoreapp3.1\CalculadoraFatorial.dll
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\obj\Debug\netcoreapp3.1\CalculadoraFatorial.pdb
+F:\C#\Teste Tecnico\CalculadoraFatorial\CalculadoraFatorial\obj\Debug\netcoreapp3.1\CalculadoraFatorial.genruntimeconfig.cache
